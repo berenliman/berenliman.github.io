@@ -1,14 +1,32 @@
 .beren {
-	color: pink
+	color: #D99D81;
+	width: 450px;
 }
 .almira {
-	color: pink
-}
-
-.beren {
-	width: 200px
+	color: #D99D81;
 }
 
 .ahmet {
-	background color: navy
+	width: 185px;
+	color: #D99D81;
+}
+
+.berk {
+	width: 215px;
+}
+
+
+.halide {
+	color:#D99D81;
+}
+.bora {
+	width: 75%;
+}
+
+.serin{
+	color: #D99D81;
+}
+
+body{
+	background-color: maroon;
 }
